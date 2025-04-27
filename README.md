@@ -2,7 +2,6 @@
 
 A simple GUI tool (Tkinter) to scan Python projects, identify dependencies, check installation status, and manage packages. Helps keep track of what's needed in your Python environments!
 
-*(Optional: Insert Screenshot Here - See below)*
 <!-- ![PyDep Helper Screenshot](images/screenshot.png) -->
 
 ## Download
